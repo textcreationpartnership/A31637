@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Grace, William, Duke of Hamilton, Their Majesties High Commissioner and the Honourable Estates of Parliament, the following considerations and proposals are humbly presented by Dr. Hugh Chamberlen.</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31637</idno>
+            <idno type="STC">Wing C1893A</idno>
+            <idno type="STC">ESTC R9059</idno>
+            <idno type="EEBO-CITATION">11806984</idno>
+            <idno type="OCLC">ocm 11806984</idno>
+            <idno type="VID">49465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 20:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Grace, William, Duke of Hamilton, Their Majesties High Commissioner and the Honourable Estates of Parliament, the following considerations and proposals are humbly presented by Dr. Hugh Chamberlen.</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hamilton, William Douglas, --  Duke of, 1635-1694.</term>
+               <term>Foreign trade promotion --  Scotland.</term>
+               <term>Credit --  Scotland.</term>
+               <term>Scotland --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49465:1"/>
+            <pb n="1" facs="tcp:49465:1" rendition="simple:additions"/>
+            <head>TO HIS GRACE WILLIAM DUKE of HAMILTON THEIR MAJESTIES HIGH COMMISSIONER And the Honourable ESTATES of PARLIAMENT, <hi>The following Conſiderations and Propoſals are humbly preſented by</hi> Dr. HUGH CHAMBERLEN</head>
+            <p>
+               <note place="margin">Firſt Con<g ref="char:EOLhyphen"/>ſideration.</note>WHereas it is moſt evident, That a Wiſe and Large E<g ref="char:EOLhyphen"/>ſtabliſhment, and a continued courſe of conſiderable Trade, is a ſure way whereby any Nation Capable of it, may attain to Honour, Wealth, and Power: becauſe that thereby will ariſe; <hi>Firſt,</hi> A great Increaſe of Money, which anſwereth all things: <hi>Secondly,</hi> An Increaſe of People, which is the Strength of any Kingdom or State, and who do al<g ref="char:EOLhyphen"/>wayes gather to thoſe places where Money is in abundance. And <hi>Thirdly,</hi> An In<g ref="char:EOLhyphen"/>creaſe of Shipping, which is the ſtrongeſt rampart of an Iſland; And by which Mer<g ref="char:EOLhyphen"/>chandize is conveyed to the moſt profitable Mercat. It is therefore the undoubted In<g ref="char:EOLhyphen"/>tereſt of the People of <hi>Scotland,</hi> eſpecially thoſe who have the greateſt Eſtates, whether of Land or Money, to Imploy themſelves to the Improvement of Trade, as univerſal<g ref="char:EOLhyphen"/>ly as is poſſible. And it is humbly conceived, that this propoſition needs no other Proof or Illuſtration, than what plainly ariſes from the Obſervation of thoſe many and great Advantages derived from Trade, to the Kingdom of <hi>England,</hi> the States of the united Provinces, &amp; all other Kingdoms, and States, that have applyed themſelves to Commerce.</p>
+            <p>
+               <note place="margin">Second Con<g ref="char:EOLhyphen"/>ſideration.</note>The Kingdom of <hi>Scotland</hi> is as Capable of making Advantages by Trade, as any other Kingdom or State, being ſurrounded with good Sea Ports upon all its Coaſts, and having a very great and profitable Subject of Trade, proper to it; The Land affording Grain, Cattel, Wool, Flax,
+<pb n="2" facs="tcp:49465:2"/>Coal, Salt, Copper, Iron, Lead, and other Native Products; beſides the Fiſhing of the Rivers, Loghs, and Seas. This Kingdom hath likewayes great numbers of People, either not Imployed, or not ſo fully and profitably as might be: And hath alſo ſuch a Proviſion of Shipping as may ſerve to begin a Trade, and may ſoon be Increaſed, if a greater Trade be ſet up. The truth of this Conſideration will appear by comparing the Particulars therein contained, to thoſe of the united Provinces, where the proper Subject of Trade comes very far ſhort of that of this Kingdom: Which Provinces from very ſmall beginnings, and under the Diſcouragement of a War with <hi>Spain,</hi> at that time the moſt potent King of <hi>Europe,</hi> have yet raiſed themſelves, within a ſhort period of years, to that immenſe, Wealth, Grandeur, and Power, that now they poſ<g ref="char:EOLhyphen"/>ſeſs: And have acquired it chiefly by their Trafficking in thoſe Subjects of Trade, which properly belong to this and other Nations.</p>
+            <p>
+               <note place="margin">Third Con<g ref="char:EOLhyphen"/>fideration.</note>The People of this Kingdom, who have had Liberal Education, are generally in all Countries allowed to be of great Ingenuity and Diligence, and ſo well Inclined to Vertue and Frugality; and ſo averſe from Luxury, that where they are Imployed abroad, they are outdone by none; and the Commons being <hi>docile</hi> and Tractable, and likewayes Robuſt and Vigorous of Body, and ſuffici<g ref="char:EOLhyphen"/>enty Inclined to beſtow their Labour where there is proſpect of moderate Gain: And being hitherto accuſtomed to ſmall Wages; It may juſtly be concluded, that no Peo<g ref="char:EOLhyphen"/>ple in the World are naturally more fitted or better qualified for ſetting up, manag<g ref="char:EOLhyphen"/>ing and proſecuting a great and conſiderable Trade.</p>
+            <p>
+               <note place="margin">Fourth Con<g ref="char:EOLhyphen"/>ſideration.</note>It is moſt certainly true in Fact, nor can it be unknown to the Intelli<g ref="char:EOLhyphen"/>gent of this Nation, that the greateſt Tradings in the World are carryed on, not ſo much by the ſpecies of Money, which is in Stock and Caſh, as by a great Credit attained to by means, partly of their viſible Subject of Trade, partly of their pains in, and application to Traffick, buſt moſt of all upon account of the Reputation and Opinion of the great Profits made in the courſe of a proſperous Trade, even where the Native and Propper Subject of Trade keeps no proportion with the Trade carried on, as it is in the United Provinces; Where Credit is the chief In<g ref="char:EOLhyphen"/>ſtrument of their Commerce, and that Credit raiſed upon a Fund more of Opinion or Reputation than Reall. If therefore in this Kingdome, the want of a ſufficient Stock of Money, for the Carrying on a great Trade, can be made up by a Credit grounded upon a more Real and Subſtantial Fund, than the Credit of any other Nation, either at preſent is, or probably can be founded upon, then certainly it may moſt reaſonably follow, that this Kingdom is rather more Capable of carrying on great and National Trades, than moſt other Kingdoms or States in <hi>Europe.</hi>
+            </p>
+            <p>
+               <note place="margin">Fifth Con<g ref="char:EOLhyphen"/>ſideration.</note>The Titles and Tenures of Eſtates, eſpecially Land Eſtates in this King<g ref="char:EOLhyphen"/>dom, being more known ſure and ſtated, and with greater eaſe and cer<g ref="char:EOLhyphen"/>tainty examinable, by reaſon of the Records here in uſe, than in any other Country; and an evident clear and firm ſecurity upon Land, being the beſt and moſt ſubſtantial Fund of Credit: This Kingdom is capable in this reſpect, to raiſe a credit ſufficient for improving to the uttermoſt the great ſubject of Trade, that now it unprofitably poſſeſſes; and this Credit as far to execed that of other Nations, as a re<g ref="char:EOLhyphen"/>all ſolid and permanent Fund exceeds thoſe of Opinion and Reputation, for ſuch all thoſe of other Nations will be found to be when duely weighed, with that hereby pro<g ref="char:EOLhyphen"/>poned for this Kingdom.</p>
+            <p>Upon theſe conſiderations, which may ſo juſtly be preſumed to induce the Right Honourable Eſtates of Parliament, to receive and examine a propoſall, that Tenders to this Kingdom the certain and Effectuall Means of ſo great Wealth and Honour,</p>
+            <pb n="3" facs="tcp:49465:2"/>
+            <div type="part">
+               <head>The ſaid Doctor <hi>Hugh Chamberlen,</hi> humbly offers to the wiſdom of this Auguſt Aſſembly, The following Propoſall.</head>
+               <head>THE PROPOSAL.</head>
+               <p>THAT a Statute or Law of this Kingdom may be Enacted, for nominating certain Truſtees or Commiſſioners, to be appointed now, and from time to time, by Par<g ref="char:EOLhyphen"/>liament, &amp; accountable thereunto: which Truſtees are to have power to receive and ex<g ref="char:EOLhyphen"/>amine the titles and Eſtates of all ſuch as are willing to engage their Lands for the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or<g ref="char:EOLhyphen"/>ming ſuch a ſecure current Credit. Upon finding any ſuch eſtate clear in title, the ſaid Truſtees to take a conveyance thereof for 150 Years, upon Condition to be void, wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n 100 Years payment ſhall have been made to them of the rent agreed; &amp; ſuch rent to be payd, not in Money or Gold, but only in the bills of Credit iſſued to the Grantor by the ſaid Truſtees, And the Heritor or Grantor to enjoy the free &amp; undiſturbed poſſeſſion of ſuch Eſtate for the whole Term; he duely paying ſuch Annualrent. Upon the making over any ſuch Eſtate, the Truſtees thereupon direct their Warrant to the Maſter of a pro<g ref="char:EOLhyphen"/>per Office, therefore to be erected, to Iſſue 100 years value of ſuch Eſtate in bills of Cre<g ref="char:EOLhyphen"/>dit of ſeverall values, the better to accommodate the uſes of Trade: Which bills of Credit are thus to be divided, <hi>Viz:</hi> 40 Years Value to the Proprietor: 30 Years value for his uſe, but to be employed in ſuch publick Trade or Trades, as the ſe<g ref="char:EOLhyphen"/>veral Proprietors ſhall in a body agree upon: 10 Years purchaſe to the Government in eaſe of the People in point of Taxes, and may be appropriated to ſuch uſes where the honour of the Crown, &amp; Intereſt of the Nation, may equallie meet: And the reſidue to the uſe of the ſaid Doctor <hi>Chamberlen,</hi> as Maſter of ſuch Office; who and his Heirs to be perpetually ſo, in reward of this ſervice done the Nation. And the Maſter of the Office, is out of ſuch his part, to pay all the charge of the Office, which will be very great; and to anſwer all contingencies of it, And alſo generous and becoming appointments to thoſe Honourable Gentlemen to be made Truſtees by the Parliament, to ſee juſtice done to the people, and the honour, and ſecurity of the bank preſerved inviolable. The He<g ref="char:EOLhyphen"/>ritors, or Proprietors that raiſe this Fund, are to be a Corporation, with perpetual Succeſſion, and all neceſſary powers, for mannaging and carrieing on ſuch National Trade, or Trades, as they ſhal agree upon. From 120 to 150 Pound <hi>Sterling, Per annum,</hi> is to be made over for the payment of every 100 <hi>Per annum,</hi> to be engaged for this Fund, and ſo in proportion; And this to the end, that all credit thus to be iſſued, may be ſupported by a greater value than it ſelf.</p>
+               <p>That theſe Bills be made Current in all payments: and as they are payed Yearly, for Rent to the Truſtees, they are by them to be deſtroyed: ſo that at the end of 100 years they will be all recalled. Bills of Credit thus founded upon Land, and ſtreng<g ref="char:EOLhyphen"/>thened by the Sanction of Law, and made in a form incapable of forgery, will be found an excellent inſtrument or medium of Trade, equal in all reſpects to Gold and Silver Money, and ſuperior to them in diverſe regards. They are more ſure than any Bills, Bonds, or Morgages, or any manner of Credit now known in the World: They have a real ſolid extrinſick and permanent value, inſeparably adhering to them by Law: nor can their value be impaired, or their uſe taken away, by any future Parliaments, or by any revolutions of State, where all mens properties will not alſo be ſwallowed up. By this means, a conſiderable part of the Rents of the Nation may be applyed to Trade, which otherwayes could not be done. Thus may all the poor be profitably imployed: all Due Improvements made in Husbandry, and all needful Arts and Manufacturies; The Shipping and ſtrength of the Nation will be increaſed by Sea and Land: Publick Taxes will become eaſie to the Subiects: and all who Contribute to this Fund, will be made Richer by it, at their very entry into it: Beſides what their ſhare in the future Trade will produce.</p>
+               <p>No perſon is forced to be concerned in it, yet all are permited that ſhall deſire it; which renders it truly a free &amp; common Good. Although at the end of 100 Years, all
+<pb n="4" facs="tcp:49465:3" rendition="simple:additions"/>this Credit will be called in; Yet the courſe of Trade managed with it, cannot in the mean time but produce Gold, Silver, and other valuable commodities, and that to a far gre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter value than the Bills themſelves: And the Trade founded by them, will be perpetual. Theſe Bills not paſſing out of the Kingdome, are an advantage: For all wiſe Laws reſtrain Money from going out; and forraign Trade ought not to be man<g ref="char:EOLhyphen"/>naged with Money, but with the native product and Manufactures of the Kingdom. The Banks of <hi>Holland</hi> and <hi>Ven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee</hi> are pregnant inſtances of the power of Credit, under wiſe R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gulation: And yet the Credit of both thoſe Banks, are far inferior to the Credit her<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by proponed. They take the ready Money and imploy it for the Government, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> give their Bills to <hi>Negotiate,</hi> in payment: So that in any exigence of State, if all th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Creditors ſhould at once call for their ſeveral debts, it may reaſonably be doubt<g ref="char:EOLhyphen"/>ed if either of theſe Banks ſhould be able to anſwer their Credit: So that Opinion o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reputation, is their great ſupport. But the Bank hereby Proponed; Touches no <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ans ready Money; makes all men concerned in it preſently much Richer than be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore; layes ſure Foundations of laſting National Trades; and becomes every year a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tronger ſecurity than before: For as the Term of years Leſſens, the ſecurity be<g ref="char:EOLhyphen"/>comes more ſtrong. Upon the whole, It is humbly conceived, to have all the force of demonſtration, that this Kingdome Receiving and Enacting this propoſal, cannot fail of a ſucceſs Superior to either of thoſe Powerful and Opulent States; becauſe of the Advantages before enumerated, that this Kingdome poſſeſſes over them.</p>
+               <closer>
+                  <hi>It is therefore humbly Prayed, by</hi> Oliver Salusbury, <hi>and</hi> Peter Chamberlen, <hi>Gentlemen, Agents on this behalf of the ſaid doctor</hi> Chamberlen, <hi>That his Grace the Lord High Commiſſioner, and the Right Honourable, the Eſtates of Parliament, may pleaſe to commit the Conſideration of this Propoſal to be examined and Rep<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> being made, may determine therein as in their Great Wiſdom they ſhall ſee Cauſe.</hi>
+               </closer>
+               <pb facs="tcp:49465:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
